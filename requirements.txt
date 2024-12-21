@@ -4,5 +4,3 @@ autopep8
 
 # App
 flask
-
-freeze
